@@ -1,0 +1,29 @@
+Profile ID,Skill Name,O*NET Code,Source Signal,HRIS Visibility
+P001,Active Listening,2.B.1.b,facilitating,likely not captured
+P001,Speaking,2.B.1.d,training workshops,likely not captured
+P001,Active Learning,2.B.3.a,training workshops,likely not captured
+P001,Monitoring,2.B.4.a,performance appraisal cycles,likely not captured
+P001,Administration and Management,2.C.1.a,onboarding,likely not captured
+P001,Personnel and Human Resources,2.C.2.a,an hr,likely not captured
+P001,Mathematics,2.C.3.c,workforce analytics dashboards,likely not captured
+P001,Computers and Electronics,2.C.4.b,excel,likely not captured
+P001,Education and Training,2.C.9.a,training workshops,likely not captured
+P002,Administration and Management,2.C.1.a,workforce planning decisions,likely not captured
+P002,Personnel and Human Resources,2.C.2.a,hr datasets,likely not captured
+P002,Programming,2.C.3.b,python scripts,likely not captured
+P002,Mathematics,2.C.3.c,people analytics,likely not captured
+P002,Computers and Electronics,2.C.4.b,tableau,likely not captured
+P003,Active Listening,2.B.1.b,facilitated stakeholder communication,likely not captured
+P003,Writing,2.B.1.c,project documentation,likely not captured
+P003,Critical Thinking,2.B.2.e,risk assessment,likely not captured
+P003,Monitoring,2.B.4.a,project tracking,likely not captured
+P003,Computers and Electronics,2.C.4.b,jira,likely not captured
+P003,Customer and Personal Service,2.C.7.b,facilitated stakeholder communication,likely not captured
+P004,Critical Thinking,2.B.2.e,training needs assessments,likely not captured
+P004,Active Learning,2.B.3.a,learning,likely not captured
+P004,Learning Strategies,2.B.3.b,training needs assessments,likely not captured
+P004,Education and Training,2.C.9.a,learning,likely not captured
+P005,Writing,2.B.1.c,hr policy documentation,likely not captured
+P005,Administration and Management,2.C.1.a,employee relations,likely not captured
+P005,Personnel and Human Resources,2.C.2.a,a generalist hr,likely not captured
+P005,Customer and Personal Service,2.C.7.b,employee relations,likely not captured

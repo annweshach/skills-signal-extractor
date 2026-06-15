@@ -1,0 +1,228 @@
+[
+  {
+    "profile_id": "P001",
+    "total_skills_detected": 9,
+    "matched_skills": [
+      {
+        "skill_name": "Active Listening",
+        "onet_code": "2.B.1.b",
+        "source_signal": "facilitating",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Speaking",
+        "onet_code": "2.B.1.d",
+        "source_signal": "training workshops",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Active Learning",
+        "onet_code": "2.B.3.a",
+        "source_signal": "training workshops",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Monitoring",
+        "onet_code": "2.B.4.a",
+        "source_signal": "performance appraisal cycles",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Administration and Management",
+        "onet_code": "2.C.1.a",
+        "source_signal": "onboarding",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Personnel and Human Resources",
+        "onet_code": "2.C.2.a",
+        "source_signal": "an hr",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Mathematics",
+        "onet_code": "2.C.3.c",
+        "source_signal": "workforce analytics dashboards",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Computers and Electronics",
+        "onet_code": "2.C.4.b",
+        "source_signal": "excel",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Education and Training",
+        "onet_code": "2.C.9.a",
+        "source_signal": "training workshops",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      }
+    ]
+  },
+  {
+    "profile_id": "P002",
+    "total_skills_detected": 5,
+    "matched_skills": [
+      {
+        "skill_name": "Administration and Management",
+        "onet_code": "2.C.1.a",
+        "source_signal": "workforce planning decisions",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Personnel and Human Resources",
+        "onet_code": "2.C.2.a",
+        "source_signal": "hr datasets",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Programming",
+        "onet_code": "2.C.3.b",
+        "source_signal": "python scripts",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Mathematics",
+        "onet_code": "2.C.3.c",
+        "source_signal": "people analytics",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Computers and Electronics",
+        "onet_code": "2.C.4.b",
+        "source_signal": "tableau",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      }
+    ]
+  },
+  {
+    "profile_id": "P003",
+    "total_skills_detected": 6,
+    "matched_skills": [
+      {
+        "skill_name": "Active Listening",
+        "onet_code": "2.B.1.b",
+        "source_signal": "facilitated stakeholder communication",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Writing",
+        "onet_code": "2.B.1.c",
+        "source_signal": "project documentation",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Critical Thinking",
+        "onet_code": "2.B.2.e",
+        "source_signal": "risk assessment",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Monitoring",
+        "onet_code": "2.B.4.a",
+        "source_signal": "project tracking",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Computers and Electronics",
+        "onet_code": "2.C.4.b",
+        "source_signal": "jira",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Customer and Personal Service",
+        "onet_code": "2.C.7.b",
+        "source_signal": "facilitated stakeholder communication",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      }
+    ]
+  },
+  {
+    "profile_id": "P004",
+    "total_skills_detected": 4,
+    "matched_skills": [
+      {
+        "skill_name": "Critical Thinking",
+        "onet_code": "2.B.2.e",
+        "source_signal": "training needs assessments",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Active Learning",
+        "onet_code": "2.B.3.a",
+        "source_signal": "learning",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Learning Strategies",
+        "onet_code": "2.B.3.b",
+        "source_signal": "training needs assessments",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Education and Training",
+        "onet_code": "2.C.9.a",
+        "source_signal": "learning",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      }
+    ]
+  },
+  {
+    "profile_id": "P005",
+    "total_skills_detected": 4,
+    "matched_skills": [
+      {
+        "skill_name": "Writing",
+        "onet_code": "2.B.1.c",
+        "source_signal": "hr policy documentation",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Administration and Management",
+        "onet_code": "2.C.1.a",
+        "source_signal": "employee relations",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Personnel and Human Resources",
+        "onet_code": "2.C.2.a",
+        "source_signal": "a generalist hr",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      },
+      {
+        "skill_name": "Customer and Personal Service",
+        "onet_code": "2.C.7.b",
+        "source_signal": "employee relations",
+        "hris_visibility": "likely not captured",
+        "gap_flag": true
+      }
+    ]
+  }
+]
