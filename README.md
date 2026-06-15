@@ -1,7 +1,7 @@
 # Demonstrated Skills Signal Extractor
 
 **Type:** People Analytics Portfolio Project | NLP + HRIS  
-**Author:** Annwesha Chakrabarty · MSc HRDM, Christ University / Steinbeis University  
+**Author:** Annwesha Chakrabarty
 **Tools:** Python, spaCy, pandas, O*NET Content Model v30.3
 
 ---
